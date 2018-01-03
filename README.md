@@ -29,7 +29,7 @@ The initial state is set to `user`.
 		* Reply: "肚子餓了 快幫我買東西吃"
 	* Input: "晚安"
 		* Reply: "那麼早就睡 你是豬嗎"
-	Else Input
+	* Else Input
 		*Reply:"fk u <3"
 
 
