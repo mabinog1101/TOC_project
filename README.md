@@ -30,6 +30,6 @@ The initial state is set to `user`.
 	* Input: "晚安"
 		* Reply: "那麼早就睡 你是豬嗎"
 	* Else Input
-		*Reply:"fk u <3"
+		* Reply: "fk u <3"
 
 
