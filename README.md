@@ -1,7 +1,5 @@
 # TOC Project 2017
 
-Template Code for TOC Project 2017
-
 A telegram bot based on a finite state machine
 
 ## Setup
@@ -57,5 +55,3 @@ Every time `user` state is triggered to `advance` to another state, it will `go_
 		* Reply: "I'm entering state2"
 
 
-## Author
-[Lee-W](https://github.com/Lee-W)
